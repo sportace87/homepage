@@ -27,7 +27,7 @@ outputs:
 enableEmoji: true
 
 params:
-  background: images/author/atolev.png
+  background: images/author/background1.jpg
   logo:
     main: images/author/logo.png
     inverted: images/author/logo.png
