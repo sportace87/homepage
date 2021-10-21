@@ -27,17 +27,15 @@ outputs:
 enableEmoji: true
 
 params:
-  enableBlogPost: false
-  enableTOC: true
-  newsletter:
-    enable: false
-  background: "images/author/background.png"
-
+  background: "images/author/background.jpg"
   logo:
     main: images/author/logo.png
     inverted: images/author/logo.png
     favicon: images/author/favicon.png
-
+  enableBlogPost: false
+  enableTOC: true
+  newsletter:
+    enable: false
   # Provide footer configuration.
   footer:
     enable: true
