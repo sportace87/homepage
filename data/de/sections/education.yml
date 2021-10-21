@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Ausbildung
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Dipl. Inf. Softwaretechnik
+  icon: fa-graduation-cap
+  timeframe: 2006-2011
+  institution:
+    name: Universität Stuttgart
+    url: "https://www.uni-stuttgart.de/en/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Softwarepraktikum, Verwaltungstool für die Bergwacht
+      achieved: 3.75
+      outOf: 4
+    - name: Studienprojekt A, Webapplikation zum Erstellen von Workflows
+      achieved: 3.80
+      outOf: 4
+    - name: Studienprojekt B, Suchmaschine für Competitive Intelligence
+      achieved: 3.5
+      outOf: 4
+- name: Gymnasium
+  icon: fa-university
+  timeframe: 1997-2006
+  institution:
+    name: Zeppelin Gymnasium Stuttgart
+    url: "http://www.zg.s.schule-bw.de/wordpress/"
+- name: Grundschule
+  icon: fa-school
+  timeframe: 1993-1997
+  institution:
+    name: Ostheim
+    url: "#"

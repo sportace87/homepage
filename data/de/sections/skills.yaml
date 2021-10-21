@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Kenntnisse
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: Die Konzipierung und Umsetzung von Cloud native Apps in einer elastischen, skalierbaren und ausfallsicheren Umgebung ist eines meiner Steckenpferde."
+
+- name: Autonomes Fahren
+  logo: "/images/sections/skills/autonomous.png"
+  summary: "Expertise im Autonomen Fahren."
+
+- name: Clean Code
+  logo: "/images/sections/skills/clean-code.png"
+  summary: "Sauberen und einfachen Code zu schreiben ist meine höchste Priorität, getrue dem Motto KISS: Keep it simple and stupid."
+  url: "https://cleancoders.com/"
+
+- name: Infrastructure als Code
+  logo: "/images/sections/skills/iac.png"
+  summary: "Reproduzierbare, wiederverwendbare, dokumentierte und automatisierte Infrastruktur ist für mich eines der Hauptthemen im DevOps Umfeld."
+  url: "https://cleancoders.com/"
+

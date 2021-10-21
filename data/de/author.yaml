@@ -1,0 +1,18 @@
+# some information about you
+name: "Aleksandar Tolev"
+nickname: "Aleks"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, Ich bin"
+image: "images/author/atolev.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "aleksandar@tolev.de"
+  phone: "+491775216797"
+
+# some summary about what you do
+summary:
+  - Ich bin ein Solutions Architekt
+  - Ich bin ein Manager
+  - Ich liebe Cloud
+  - Ich arbeite im Automotive Umfeld
+  - Ich liebe es mit Kunden zu arbeiten

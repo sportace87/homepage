@@ -1,0 +1,94 @@
+# section information
+section:
+  name: Praxiserfahrung
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Amazon Web Services
+    url: "https://aws.amazon.com/de"
+    location: Stuttgart
+    # company overview
+  positions:
+  - designation: Manager Solutions Architekt
+    start: Jul 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Einstellung, Weiterentwicklung, und Vergrößerung eines Solutions Architekt Teams.
+    - Initiieren und Umsetzung von Programmen zur fokussierten Arbeit der Solutions Architekt Funktion.
+    - Schlüsselfigur für Teams mit Kundenkontakt, um die Zufriedenheit der Kunden durch den Aufbau von Applikationen auf AWS zu gewährleisten.
+
+  - designation: Senior Solutions Architekt
+    start: Feb 2019
+    end: Jun 2021
+    responsibilities:
+    - Trusted Advisor für technische Kundenbeziehungen (bis C-Leve).
+    - Erstellen und Teilen von Good Practices, technischen Inhalten und neue Referenzarchitekturen.
+    - Proaktive Mitarbeit innerhalb der Organisation zur Verbesserung der Plattform.
+
+- company:
+    name: Dr. Ing. h.c. F. Porsche AG
+    url: "https://www.porsche.de/"
+    location: Stuttgart
+  positions:
+  - designation: Software Architekt
+    start: Okt 2017
+    end: Jan 2019
+    responsibilities:
+    - Migration der bestehenden on-premise Applikation in die Cloud.
+    - Zerteilen der monolithischen Applikation in kleinere Services.
+    - Einsammeln und Aggregation der verschiedenen Anforderugen.
+
+- company:
+    name: adesso SE
+    url: "https://www.adesso.de/de/index.jsp"
+    location: Stuttgart
+  positions:
+  - designation: Software Architekt
+    start: Mai 2017
+    end: Sep 2017
+    responsibilities:
+    - Einsammeln und Aggregation der technischen Anforderungen für den Architekturentwurf.
+    - Architekturentwurf für die Integrationsschicht.
+    - Umsetzung und Testen neuer Funktionalitäten.
+  - designation: Software Architekt
+    start: Apr 2017
+    end: Sep 2016
+    responsibilities:
+    - Einsammeln und Aggregation der technischen Anforderungen für den Architekturentwurf.
+    - Erstellen von technischen User Stories.
+  - designation: Lead Softwareentwickler
+    start: Sep 2014
+    end: Dez 2016
+    responsibilities:
+    - Etablierung der Softwareentwicklungsprinzipien im Team.
+    - Aufbau und Erstellung einer CI/CD Pipeline.
+    - Einsammeln und Einarbeitung von Kundenfeedback.
+  - designation: Senior Softwareentwickler
+    start: Mai 2014
+    end: Aug 2014
+    responsibilities:
+    - Umsetzung und Testen von User Stories.
+    - CI/CD Pipeline Administrator.
+    - Erforschung zum Einsatz neuer Technologien.
+  - designation: Softwareentwickler
+    start: Aug 2012
+    end: Apr 2014
+    responsibilities:
+    - Umsetzung und Testen von User Stories.
+    - Testen von Embedded Hardware.
+    - Teilnahme an internen Communities.
+  - designation: Softwareentwickler
+    start: Apr 2012
+    end: Jul 2012
+    responsibilities:
+    - Umsetzung und Testen von User Stories.
+    - Umsetzung eines PoC.
