@@ -31,9 +31,9 @@ params:
   # Background image of the landing page
   background: /images/site/background.jpg
   logo:
-    main: /images/author/logo.png
-    inverted: /images/author/logo.png
-    favicon: /images/author/favicon.png
+    main: /images/site/logo.png
+    inverted: /images/site/logo.png
+    favicon: /images/site/favicon.png
   enableBlogPost: false
   enableTOC: true
   newsletter:
