@@ -31,12 +31,12 @@ params:
   enableTOC: true
   newsletter:
     enable: false
-  background: "images/site/background.jpg"
+  background: "/images/site/background.jpg"
 
   logo:
-    main: images/author/logo.png
-    inverted: images/author/logo.png
-    favicon: images/author/favicon.png
+    main: /images/author/logo.png
+    inverted: /images/author/logo.png
+    favicon: /images/author/favicon.png
 
   # Provide footer configuration.
   footer:
