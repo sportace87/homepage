@@ -27,7 +27,7 @@ outputs:
 enableEmoji: true
 
 params:
-  background: images/author/background1.jpg
+  background: "images/author/background1.jpg"
   logo:
     main: images/author/logo.png
     inverted: images/author/logo.png
@@ -53,4 +53,7 @@ params:
     disclaimer:
       enable: true
 
-
+deployment:
+  targets:
+    name: "homepageDeployment"
+    URL: "s3://homepage-aleks?region=eu-central-1"
