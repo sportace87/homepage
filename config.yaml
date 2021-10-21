@@ -31,7 +31,7 @@ params:
   enableTOC: true
   newsletter:
     enable: false
-  background: "/images/site/background.jpg"
+  background: "/images/site/background.png"
 
   logo:
     main: /images/author/logo.png
