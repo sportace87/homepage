@@ -13,7 +13,7 @@ section:
 skills:
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary: Die Konzipierung und Umsetzung von Cloud native Apps in einer elastischen, skalierbaren und ausfallsicheren Umgebung ist eines meiner Steckenpferde."
+  summary: "Die Konzipierung und Umsetzung von Cloud native Apps in einer elastischen, skalierbaren und ausfallsicheren Umgebung ist eines meiner Steckenpferde."
 
 - name: Autonomes Fahren
   logo: "/images/sections/skills/autonomous.png"
@@ -21,7 +21,7 @@ skills:
 
 - name: Clean Code
   logo: "/images/sections/skills/clean-code.png"
-  summary: "Sauberen und einfachen Code zu schreiben ist meine höchste Priorität, getrue dem Motto KISS: Keep it simple and stupid."
+  summary: "Sauberen und einfachen Code zu schreiben ist meine höchste Priorität, getreu dem Motto KISS: Keep it simple and stupid."
   url: "https://cleancoders.com/"
 
 - name: Infrastructure als Code
