@@ -54,8 +54,3 @@ params:
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
       enable: true
-
-deployment:
-  targets:
-    name: "homepageDeployment"
-    URL: "s3://homepage-aleks?region=eu-central-1"
