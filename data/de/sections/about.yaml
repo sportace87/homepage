@@ -56,6 +56,7 @@ badges:
   name: Leadership
   percentage: 80
   color: blue
+  
 - type: certification
   name: Certified MongoDB Developer Associate
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
@@ -63,7 +64,7 @@ badges:
 
 - type: certification
   name: AWS Certified
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  url: "https://www.credly.com/badges/bb2ff54b-3682-439b-9e64-6eaf19a18446/public_url"
   badge: "/files/badges/aws.jpg"
 
 - type: certification
