@@ -2,7 +2,7 @@ baseURL: https://main.d3sfo5wfgocqj0.amplifyapp.com
 languageCode: us-en
 title: "Aleksandar Tolev"
 theme: "toha"
-defaultContentLanguage: dene
+defaultContentLanguage: en
 
 languages:
   en:
