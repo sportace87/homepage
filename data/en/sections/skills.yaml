@@ -15,7 +15,7 @@ skills:
   logo: "/images/sections/skills/cloud.png"
   summary: "Writing concepts and implementing cloud native apps in a scalable, elastic and highly available manner is one of my specialites."
 
-- name: Software Engineering in the age of AI
+- name: Software Engineering with AI
   logo: "/images/sections/skills/clean-code.png"
   summary: "Correlating existing software engineering concepts to the AI driven development cycle."
 
