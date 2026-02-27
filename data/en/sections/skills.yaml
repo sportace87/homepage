@@ -15,17 +15,11 @@ skills:
   logo: "/images/sections/skills/cloud.png"
   summary: "Writing concepts and implementing cloud native apps in a scalable, elastic and highly available manner is one of my specialites."
 
-- name: Autonomous Driving
-  logo: "/images/sections/skills/autonomous.png"
-  summary: "Experienced in a holistic end-to-end view of Autonomous Driving development."
-
-- name: Clean Code
+- name: Software Engineering in the age of AI
   logo: "/images/sections/skills/clean-code.png"
-  summary: "Writing clean and simple code is my top priority, following the rule KISS: Keep it simple and stupid."
-  url: "https://cleancoders.com/"
+  summary: "Correlating existing software engineering concepts to the AI driven development cycle."
 
-- name: Infrastructure as Code
+- name: Trusted Advisor
   logo: "/images/sections/skills/iac.png"
-  summary: "Writing clean and simple code is my top priority, following the rule KISS: Keep it simple and stupid."
-  url: "https://cleancoders.com/"
+  summary: "Act as trusted advisor for customers and team members navigating ambiguity and complex challenges."
 

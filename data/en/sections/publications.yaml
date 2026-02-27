@@ -1,0 +1,100 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: "Generative AI"
+  filter: "generative ai"
+- name: "Automotive"
+  filter: "automotive"
+- name: Security
+  filter: "security"
+
+# your publications
+publications:
+- title: The AWS approach to secure generative AI
+  publishedIn:
+    name: Youtube
+    date: 5 Nov 2024
+    url: https://www.youtube.com/watch?v=PyFRmWRGgsQ
+  authors:
+  - name: Sibasankar Behera
+  - name: Aleksandar Tolev
+  paper:
+    summary: In this session you will learn how AWS makes the use of generative AI service like Amazon Bedrock secure by default.
+    url: https://www.youtube.com/watch?v=PyFRmWRGgsQ
+  categories: ["generative ai", "security"]
+  tags: ["Generative AI", "Security"]
+
+- title: "Learning From the IBM PC: How an open hardware platform for automotive applications can help transform the industry"
+  publishedIn:
+    name: AWS Blog Post
+    date: 7 Aug 2023
+    url: https://aws.amazon.com/blogs/industries/how-an-open-hardware-platform-for-automotive-applications-can-help-transform-the-industry/
+  authors:
+  - name: Daniel Schleicher
+  - name: Aleksandar Tolev
+  paper:
+    summary: Drawing a parallel to the story of the IBM PC, this blog post shows how the introduction of an open hardware platform for automotive applications might create a similar environment driving innovation, disruption, and transformation for the automotive industry. This blog post also discusses the potential  advantages for the first automotive company to release such a platform.
+    url: https://aws.amazon.com/blogs/industries/how-an-open-hardware-platform-for-automotive-applications-can-help-transform-the-industry/
+  categories: ["automotive", "industries"]
+  tags: ["Automotive", "Industries"]
+
+- title: SDV Pulse Report
+  publishedIn:
+    name: Thoughtworks
+    date: June 2024
+    url: https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_report_sdv_pulse_2024_en.pdf
+  authors:
+  - name: Christian Mueller
+  - name: Daniel Schleicher
+  - name: Francesco Salamida
+  - name: Sushant Dhamnekar
+  - name: Aleksandar Tolev
+  - name: Eirk Doernenburg
+  - name: Marcos Silveira
+  - name: Michael Fait
+  - name: Sriram Jayaraman
+  - name: Vivek Poovalingam
+  paper:
+    summary: The Pulse chart has been designed to help organizations in the automotive industry keep track of relevant trends, developments and opportunities across the SDV space.
+    url: https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_report_sdv_pulse_2024_en.pdf
+  categories: ["software-defined vehicle","automotive"]
+  tags: ["Software Defined Vehicles", "Automotive"]
+
+- title: "Signed cookie-based authentication with Amazon CloudFront and AWS Lambda@Edge: Part 1 - Authentication"
+  publishedIn:
+    name: AWS Blog Post
+    date: 26 Jan 2022
+    url: https://aws.amazon.com/blogs/networking-and-content-delivery/signed-cookie-based-authentication-with-amazon-cloudfront-and-aws-lambdaedge-part-1-authentication/
+  authors:
+  - name: Marco Staufer
+  - name: Aleksandar Tolev
+  paper:
+    summary: In this first blog, you will learn how to implement the authentication mechanism. In the second blog post, you will learn how to implement the authorization mechanism and complete the solution.
+    url: https://aws.amazon.com/blogs/networking-and-content-delivery/signed-cookie-based-authentication-with-amazon-cloudfront-and-aws-lambdaedge-part-1-authentication/
+  categories: ["networking", "authentication", "security"]
+  tags: ["Network & Content Delivery"]
+
+- title: "Signed cookie-based authentication with Amazon CloudFront and AWS Lambda@Edge: Part 2 - Authorization"
+  publishedIn:
+    name: AWS Blog Post
+    date: 26 Jan 2022
+    url: https://aws.amazon.com/blogs/networking-and-content-delivery/signed-cookie-based-authentication-with-amazon-cloudfront-and-aws-lambdaedge-part-2-authorization/
+  authors:
+  - name: Marco Staufer
+  - name: Aleksandar Tolev
+  paper:
+    summary: In this second part of the blog series, you will learn how to implement the authorization mechanism. In the previous blog post, you learnt how to implement the authentication mechanism. If you read part one of the blog post, skip the introduction and continue reading at Prerequisites.
+    url: https://aws.amazon.com/blogs/networking-and-content-delivery/signed-cookie-based-authentication-with-amazon-cloudfront-and-aws-lambdaedge-part-2-authorization/
+  categories: ["networking", "authorization", "security"]
+  tags: ["Network & Content Delivery"]

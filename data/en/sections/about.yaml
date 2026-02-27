@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Solutions Architect
+designation: Solutions Architect Manager
 # your company information
 company:
   name: Amazon Web Services
   url: "https://aws.amazon.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/aleks-resume.pdf"
 
 # a summary about you
-summary: 'I am a communicative, resilient, and self working Solutions Architect who is looking for new challenges and who loves to work in teams. Working with new state of the art technologies is a lot of fun. In my free time I love travelling, cooking, and doing sports.'
+summary: 'I am a communicative, resilient, and self working Solutions Architect Manager who is looking for new challenges and who loves to work in teams. Working with new state of the art technologies is a lot of fun. In my free time I love travelling, cooking, and doing sports.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -32,16 +32,14 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/aleksandar-tolev"
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/fritzace80"
 - name: Xing
   icon: "fab fa-xing"
   url: "https://www.xing.com/profile/Aleksandar_Tolev"
+- name: credly
+  icon: "fa fa-certificate"
+  url: "https://www.credly.com/users/aleksandar-tolev"
 
 badges:
-
-
 - type: soft-skill-indicator
   name: Team Work
   percentage: 100
@@ -54,19 +52,20 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 85
   color: blue
-- type: certification
-  name: Certified MongoDB Developer Associate
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "files/badges/mongo_certification.png"
 
-- type: certification
-  name: AWS Certified
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "files/badges/aws.jpg"
+- type: soft-skill-indicator
+  name: Industry Knowledge
+  percentage: 75
+  color: orange
 
-- type: certification
-  name: Certified Professional Scrum Master
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "files/badges/psm.jpg"
+- type: soft-skill-indicator
+  name: Software Engineering
+  percentage: 70
+  color: pink
+
+- type: soft-skill-indicator
+  name: GenAI Foundations
+  percentage: 65
+  color: "#00adb5"
